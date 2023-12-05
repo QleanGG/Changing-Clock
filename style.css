@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+    text-align: center;
+    color: white;
+    background-image: url(./night.jpg);
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'VT323', monospace;
+    font-size: 10rem;
+}
